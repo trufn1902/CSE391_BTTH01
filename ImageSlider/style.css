@@ -100,14 +100,14 @@ body{
     background: pink;
 }
 
-#radio1:checked ~ .navigation-auto .auto-btn2{
+#radio2:checked ~ .navigation-auto .auto-btn2{
     background: pink;
 }
 
-#radio1:checked ~ .navigation-auto .auto-btn3{
+#radio3:checked ~ .navigation-auto .auto-btn3{
     background: pink;
 }
 
-#radio1:checked ~ .navigation-auto .auto-btn4{
+#radio4:checked ~ .navigation-auto .auto-btn4{
     background: pink;
 }
